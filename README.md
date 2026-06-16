@@ -4,7 +4,7 @@ An intelligent desktop application that monitors students during online exams us
 
 ---
 
-## Table of Contents
+## Table of Contents:
 
 - [Overview](#overview)
 - [Features](#features)
